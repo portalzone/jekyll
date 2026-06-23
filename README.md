@@ -8,6 +8,8 @@ Repository for learning how to make website with jekyll and GigHub Pages.
 
 # description
 
+i should describe the file
+
 ## Learning Markdown
 Vanilla text contain *italics* and **bold words**.
 
