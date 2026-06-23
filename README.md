@@ -1,2 +1,1 @@
-# jekyll
-Building website with git hub
+# Group website
