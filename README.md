@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Group for index page
 Repository for learning how to make website with jekyll and GigHub Pages. 
 
